@@ -70,4 +70,4 @@ El juego esta completamente terminado y funcional, para su uso, comprensión y d
 ## 👤 Autor
  
 **Juan Diego Galindo**
-Estudiante de Ingeniería de Sistemas - Tercer Semestre
+Estudiante de Ingeniería de Sistemas - Segundo Semestre
