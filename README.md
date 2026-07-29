@@ -1,12 +1,12 @@
 # EjercicioAlgoritmia - Tortuga
 
-## 1. Nombre del Proyecto
+## Nombre del Proyecto
 
 **EjercicioAlgoritmia - Tortuga**
 
-Proyecto académico orientado al desarrollo de lógica algorítmica mediante la simulación del movimiento de una “tortuga” virtual, utilizada para representar gráficamente instrucciones de programación en un plano bidimensional.
+Proyecto académico orientado al desarrollo de lógica algorítmica mediante la simulación del movimiento de una “tortuga” virtual, utilizada para representar gráficamente instrucciones de programación en un plano bidimensional. Utilizamos matrices y arreglos para identificas en el plano bidimensional los movimientos permitidos y prohibidos.
 
-## 2. Características
+## Características
 
 Este proyecto presenta las siguientes características principales:
 
@@ -16,8 +16,9 @@ Este proyecto presenta las siguientes características principales:
 - Enfoque educativo para fortalecer el razonamiento lógico.
 - Organización del proyecto mediante archivos de construcción (`build.xml`).
 - Representación visual o estructural del recorrido generado por el algoritmo.
+- Aplicar y entender de manera correcta el uso de las matrices y arreglos.
 
-## 3. Instalación
+## Instalación
 
 ### Requisitos
 
@@ -41,14 +42,14 @@ ant compile
 ant run
 ```
 
-## 4. Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 1. Java – Lenguaje principal del proyecto.
 2. Apache Ant – Herramienta de compilación.
 3. Git / GitHub – Control de versiones.
 4. IDE Java – Entorno de desarrollo.
 
-## 5. Juego
+## Juego
 
 El ejercicio de la Tortuga se fundamenta en el paradigma conocido como Turtle Graphics, utilizado en la enseñanza de programación para representar gráficamente la ejecución de algoritmos. La “tortuga” actúa como un agente que se mueve sobre un plano cartesiano siguiendo instrucciones como avanzar, girar o detenerse. Cada instrucción modifica su posición y orientación, permitiendo visualizar el comportamiento de un algoritmo.
 
@@ -61,3 +62,12 @@ Desde el punto de vista programático:
 5. Se traduce la lógica abstracta en un comportamiento observable.
 
 Este enfoque facilita la comprensión de conceptos como flujo de control, modularidad y secuenciación, permitiendo que el estudiante relacione la teoría algorítmica con resultados visuales concretos.
+
+## ✅ Estado del proyecto
+ 
+El juego esta completamente terminado y funcional, para su uso, comprensión y diversión.
+ 
+## 👤 Autor
+ 
+**Juan Diego Galindo**
+Estudiante de Ingeniería de Sistemas - Tercer Semestre
